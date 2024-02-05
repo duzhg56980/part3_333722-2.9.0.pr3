@@ -1,0 +1,6 @@
+import com.fasterxml.jackson.databind.util.TokenBuffer;
+public class FunctionUse7389 {
+public void funcUse() {
+TokenBuffer tokenbuffer = new TokenBuffer();
+}
+}
